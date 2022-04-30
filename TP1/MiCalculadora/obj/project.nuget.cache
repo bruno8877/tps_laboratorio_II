@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QMCAe0wUCeQkT71rbRJfUACHUIOUfKl61vJj4jZfIC98VrbdkzGvj2E7QGnGNam2uvLlrc+fQbGCG5FUQwP0iQ==",
+  "dgSpecHash": "wIXrZKTrDD0XMWKLHxkndm2Ye3WV7RBPGHVnmT5e4Ptx4LKHC8RUAw0v2/FfAMfp27AKdBVt7sFT3K4Rx1ZfPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bruno\\source\\repos\\TPS\\TP1\\MiCalculadora\\MiCalculadora.csproj",
+  "projectFilePath": "C:\\Users\\bruno\\source\\tps_laboratorio_II\\TP1\\MiCalculadora\\MiCalculadora.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
